@@ -1,0 +1,71 @@
+html{
+    background-color:black;
+     }
+     body{
+         width: 1200px;
+         margin:20px auto;
+         background-color:#F2F1F1;
+         padding: 0 20px 20px 20px;
+         border: 20px solid black;
+         background-color:white 
+     }
+img{
+    display: block;
+    margin: 10px auto;
+    
+}
+h1{
+    font-size: 67px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px grey;
+} 
+h2{
+    font-size: 67px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px 0;
+    color: black;
+}
+p {
+    font:montserrat;
+    width: 1150px;
+    font-size: 45px
+    font-family: 'Monsterrat';
+    font-family: 'Monsterrat Alternates';
+    
+    }
+
+    .sec1{
+        width: 100%;
+        background-color: grey;
+        border:block solid #271B1B ;
+        padding: 15px 5px;
+        text-align: left;
+
+    }
+
+    .sec3{
+        width: 100%;
+        background-color: grey;
+        border:block solid #271B1B ;
+        padding: 15px 5px;
+        text-align: left;
+    }
+
+    .sec5{
+        width: 100%;
+        background-color: grey;
+        border:block solid #271B1B ;
+        padding: 15px 5px;
+        text-align: left;
+    }
+    .sec7{
+        width: 100%;
+        background-color: grey;
+        border:block solid #271B1B ;
+        padding: 15px 5px;
+        text-align: left;
+    }
